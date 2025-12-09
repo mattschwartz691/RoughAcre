@@ -521,7 +521,7 @@ const deepSkyObjects = [
         description: "Two open clusters visible together in same field of view. Stunning sight at low magnification. Each cluster is about 7,500 light-years away.",
         size: "60'",
         equipment: "Naked eye / Binoculars",
-        image: "./images/double-cluster.jpg?v=1",
+        image: "https://mattschwartz691.github.io/RoughAcre/images/double-cluster.jpg",
         imageCredit: "ESO/S. Brunier",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/Double_Cluster",

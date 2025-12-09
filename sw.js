@@ -1,4 +1,4 @@
-const CACHE_NAME = 'tonights-sky-v9';
+const CACHE_NAME = 'tonights-sky-v10';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
