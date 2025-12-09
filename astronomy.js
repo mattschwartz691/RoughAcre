@@ -253,7 +253,7 @@ const deepSkyObjects = [
         description: "Famous planetary nebula. Glowing shell of gas expelled by a dying star 2,300 light-years away. The central star is visible in larger telescopes.",
         size: "1.4' × 1.0'",
         equipment: "Telescope",
-        image: "https://cdn.esahubble.org/archives/images/screen/heic1310a.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/1/13/M57_The_Ring_Nebula.JPG",
         imageCredit: "NASA/ESA/Hubble",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/Ring_Nebula",
@@ -272,7 +272,7 @@ const deepSkyObjects = [
         description: "First planetary nebula ever discovered (1764). One of the brightest planetary nebulae at 1,360 light-years. Shows intricate structure in telescopes.",
         size: "8.0' × 5.7'",
         equipment: "Binoculars / Telescope",
-        image: "https://cdn.esahubble.org/archives/images/screen/opo0332a.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/38/M27_-_Dumbbell_Nebula.jpg",
         imageCredit: "NASA/ESA",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/Dumbbell_Nebula",
@@ -367,7 +367,7 @@ const deepSkyObjects = [
         description: "Large emission nebula resembling the continent of North America. Best seen with wide-field instruments or binoculars under dark skies.",
         size: "120' × 100'",
         equipment: "Binoculars / Wide-field telescope",
-        image: "https://www.nasa.gov/wp-content/uploads/2023/03/pia15817-north-american-and-pelican-nebulas.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/North_America_nebula.jpg",
         imageCredit: "NASA/WISE",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/North_America_Nebula",
@@ -386,7 +386,7 @@ const deepSkyObjects = [
         description: "Part of the Cygnus Loop supernova remnant from an explosion 10,000-20,000 years ago. Wispy, delicate structure best seen with OIII filter.",
         size: "60'",
         equipment: "Telescope with OIII filter",
-        image: "https://cdn.esahubble.org/archives/images/screen/heic1520a.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Veil_Nebula_-_NGC6992.jpg",
         imageCredit: "NASA/ESA/Hubble",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/Veil_Nebula",
@@ -464,7 +464,7 @@ const deepSkyObjects = [
         description: "Greatest globular cluster in the northern sky. Contains several hundred thousand stars packed into a sphere 145 light-years across.",
         size: "20'",
         equipment: "Binoculars / Telescope",
-        image: "https://cdn.esahubble.org/archives/images/screen/potw1011a.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Messier_13.jpg",
         imageCredit: "NASA/ESA/Hubble",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/Messier_13",
@@ -483,7 +483,7 @@ const deepSkyObjects = [
         description: "One of the oldest (12 billion years) and most densely packed globular clusters known. May contain an intermediate-mass black hole at its center.",
         size: "18'",
         equipment: "Binoculars / Telescope",
-        image: "https://cdn.esahubble.org/archives/images/screen/potw1044a.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/2/26/Messier_15.jpg",
         imageCredit: "NASA/ESA/Hubble",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/Messier_15",
@@ -521,7 +521,7 @@ const deepSkyObjects = [
         description: "Two open clusters visible together in same field of view. Stunning sight at low magnification. Each cluster is about 7,500 light-years away.",
         size: "60'",
         equipment: "Naked eye / Binoculars",
-        image: "https://apod.nasa.gov/apod/image/2311/DoubleCluster_Lease_960.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Double_Cluster.jpg",
         imageCredit: "Astrophotography",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/Double_Cluster",
@@ -540,7 +540,7 @@ const deepSkyObjects = [
         description: "Open cluster resembling an owl or E.T. with outstretched arms. Two bright stars form the eyes. Popular target for amateur astronomers.",
         size: "13'",
         equipment: "Binoculars / Telescope",
-        image: "https://apod.nasa.gov/apod/image/1301/ngc457_mazlin_960.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Owl_Cluster_%28NGC_457_or_Caldwell_13%29.jpg",
         imageCredit: "Ole Nielsen",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/NGC_457",
@@ -635,7 +635,7 @@ const deepSkyObjects = [
         description: "Often overlooked in favor of nearby M13, but equally impressive. One of the oldest clusters at 14.2 billion years - nearly as old as the universe.",
         size: "14'",
         equipment: "Binoculars / Telescope",
-        image: "https://cdn.esahubble.org/archives/images/screen/potw1714a.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Messier_92_Hubble.jpg",
         imageCredit: "NASA/ESA/Hubble",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/Messier_92",
