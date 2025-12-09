@@ -253,7 +253,7 @@ const deepSkyObjects = [
         description: "Famous planetary nebula. Glowing shell of gas expelled by a dying star 2,300 light-years away. The central star is visible in larger telescopes.",
         size: "1.4' × 1.0'",
         equipment: "Telescope",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/M57_The_Ring_Nebula.JPG/1024px-M57_The_Ring_Nebula.JPG",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/M57_Ring_Nebula_by_HST_1999.jpg/1024px-M57_Ring_Nebula_by_HST_1999.jpg",
         imageCredit: "NASA/ESA/Hubble",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/Ring_Nebula",
@@ -272,7 +272,7 @@ const deepSkyObjects = [
         description: "First planetary nebula ever discovered (1764). One of the brightest planetary nebulae at 1,360 light-years. Shows intricate structure in telescopes.",
         size: "8.0' × 5.7'",
         equipment: "Binoculars / Telescope",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dumbbell_Nebula_from_NA.jpg/1280px-Dumbbell_Nebula_from_NA.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/M27_-_Dumbbell_Nebula.jpg/1024px-M27_-_Dumbbell_Nebula.jpg",
         imageCredit: "NASA/ESA",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/Dumbbell_Nebula",
@@ -329,7 +329,7 @@ const deepSkyObjects = [
         description: "Unusual combination of emission (red), reflection (blue), and dark nebula. Distinctive three-lobed appearance created by dark dust lanes.",
         size: "28'",
         equipment: "Binoculars / Telescope",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/The_Trifid_Nebula.jpg/1024px-The_Trifid_Nebula.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Trifid_Nebula.jpg/1024px-Trifid_Nebula.jpg",
         imageCredit: "NASA/ESA/Hubble",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/Trifid_Nebula",
@@ -367,11 +367,11 @@ const deepSkyObjects = [
         description: "Large emission nebula resembling the continent of North America. Best seen with wide-field instruments or binoculars under dark skies.",
         size: "120' × 100'",
         equipment: "Binoculars / Wide-field telescope",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/North_America_nebula_NEOWISE.jpg/1280px-North_America_nebula_NEOWISE.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/North_America_Nebula_%28NASA%29.jpg/1024px-North_America_Nebula_%28NASA%29.jpg",
         imageCredit: "NASA/WISE",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/North_America_Nebula",
-            nasa: "https://www.nasa.gov/image-article/north-america-nebula/",
+            nasa: "https://science.nasa.gov/image-detail/pia15817-north-american-and-pelican-nebulas/",
             simbad: "https://simbad.u-strasbg.fr/simbad/sim-id?Ident=NGC7000"
         }
     },
@@ -386,11 +386,11 @@ const deepSkyObjects = [
         description: "Part of the Cygnus Loop supernova remnant from an explosion 10,000-20,000 years ago. Wispy, delicate structure best seen with OIII filter.",
         size: "60'",
         equipment: "Telescope with OIII filter",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Veil_Nebula_-_NGC6992.jpg/1280px-Veil_Nebula_-_NGC6992.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Veil_Nebula_-_NGC6960.jpg/1024px-Veil_Nebula_-_NGC6960.jpg",
         imageCredit: "NASA/ESA/Hubble",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/Veil_Nebula",
-            nasa: "https://science.nasa.gov/image-article/veil-nebula-supernova-remnant/",
+            nasa: "https://science.nasa.gov/missions/hubble/hubble-revisits-the-veil-nebula/",
             simbad: "https://simbad.u-strasbg.fr/simbad/sim-id?Ident=NGC6992"
         }
     },
@@ -405,11 +405,11 @@ const deepSkyObjects = [
         description: "One of the closest planetary nebulae at 655 light-years. Sometimes called the 'Eye of God' due to its appearance. Spans 2.5 light-years across.",
         size: "25'",
         equipment: "Binoculars / Telescope",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NGC_7293.jpg/1024px-NGC_7293.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/NGC7293_%282004%29.jpg/1024px-NGC7293_%282004%29.jpg",
         imageCredit: "NASA/ESA/Hubble",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/Helix_Nebula",
-            nasa: "https://science.nasa.gov/image-article/helix-nebula/",
+            nasa: "https://science.nasa.gov/missions/hubble/iridescent-glory-of-nearby-helix-nebula/",
             simbad: "https://simbad.u-strasbg.fr/simbad/sim-id?Ident=NGC7293"
         }
     },
@@ -521,11 +521,11 @@ const deepSkyObjects = [
         description: "Two open clusters visible together in same field of view. Stunning sight at low magnification. Each cluster is about 7,500 light-years away.",
         size: "60'",
         equipment: "Naked eye / Binoculars",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Double_Cluster.jpg/1280px-Double_Cluster.jpg",
-        imageCredit: "NASA/ESA",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Double_Cluster_%28captured_by_8%22_telescope%29.jpg/1024px-Double_Cluster_%28captured_by_8%22_telescope%29.jpg",
+        imageCredit: "Astrophotography",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/Double_Cluster",
-            nasa: "https://apod.nasa.gov/apod/ap101123.html",
+            nasa: "https://science.nasa.gov/image-detail/double-cluster-ngc-869-and-ngc-884/",
             simbad: "https://simbad.u-strasbg.fr/simbad/sim-id?Ident=NGC869"
         }
     },
@@ -540,11 +540,11 @@ const deepSkyObjects = [
         description: "Open cluster resembling an owl or E.T. with outstretched arms. Two bright stars form the eyes. Popular target for amateur astronomers.",
         size: "13'",
         equipment: "Binoculars / Telescope",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/NGC_457_-_Owl_Cluster.jpg/1024px-NGC_457_-_Owl_Cluster.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/NGC457.jpg/1024px-NGC457.jpg",
         imageCredit: "Ole Nielsen",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/NGC_457",
-            nasa: "https://apod.nasa.gov/apod/ap130111.html",
+            nasa: "https://science.nasa.gov/image-detail/owl-cluster-ngc-457/",
             simbad: "https://simbad.u-strasbg.fr/simbad/sim-id?Ident=NGC457"
         }
     },
@@ -559,7 +559,7 @@ const deepSkyObjects = [
         description: "Open cluster with stars arranged like butterfly wings. About 1,600 light-years away. Contains the orange giant star BM Scorpii.",
         size: "25'",
         equipment: "Naked eye / Binoculars",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Butterfly_Cluster.jpg/800px-Butterfly_Cluster.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Messier_6.jpg/1024px-Messier_6.jpg",
         imageCredit: "Ole Nielsen",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/Butterfly_Cluster",
@@ -578,7 +578,7 @@ const deepSkyObjects = [
         description: "Large bright open cluster visible to naked eye. Known since antiquity and recorded by Ptolemy in 130 AD. About 980 light-years away.",
         size: "80'",
         equipment: "Naked eye / Binoculars",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Messier_7.jpg/800px-Messier_7.jpg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Messier7.jpg/1024px-Messier7.jpg",
         imageCredit: "ESO",
         links: {
             wikipedia: "https://en.wikipedia.org/wiki/Ptolemy_Cluster",
@@ -966,7 +966,14 @@ function calculateSunTimes(date, lat, lon) {
     const cosHa = -Math.tan(toRadians(lat)) * Math.tan(toRadians(decl));
     if (cosHa > 1 || cosHa < -1) return null;
     const Ha = toDegrees(Math.acos(cosHa));
-    const solarNoon = 12 - lon / 15 - EoT / 60;
+
+    // Get timezone offset in hours (negative for west of UTC)
+    const timezoneOffset = -date.getTimezoneOffset() / 60;
+
+    // Calculate solar noon in UTC, then convert to local time
+    const solarNoonUTC = 12 - lon / 15 - EoT / 60;
+    const solarNoon = solarNoonUTC + timezoneOffset;
+
     const sunriseHour = solarNoon - Ha / 15;
     const sunsetHour = solarNoon + Ha / 15;
     const cosHaCivil = (Math.cos(toRadians(90 + 6)) - Math.sin(toRadians(lat)) * Math.sin(toRadians(decl))) /
